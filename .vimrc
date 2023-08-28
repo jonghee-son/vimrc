@@ -97,5 +97,6 @@ call plug#begin('~/.vim/plugged')
 
   Plug 'preservim/nerdtree'
 
+  Plug 'vhda/verilog_systemverilog.vim'
 
 call plug#end()
