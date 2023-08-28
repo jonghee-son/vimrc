@@ -99,4 +99,8 @@ call plug#begin('~/.vim/plugged')
 
   Plug 'vhda/verilog_systemverilog.vim'
 
+  Plug 'godlygeek/tabular'
+
+  Plug 'preservim/vim-markdown'
+
 call plug#end()
