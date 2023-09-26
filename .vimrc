@@ -32,11 +32,11 @@ set cursorline
 " Highlight cursor line underneath the cursor vertically.
 set cursorcolumn
 
-" Set shift width to 4 spaces.
-set shiftwidth=4
+" Set shift width to 8 spaces.
+set shiftwidth=8
 
-" Set tab width to 4 columns.
-set tabstop=4
+" Set tab width to 8 columns.
+set tabstop=8
 
 " Use space characters instead of tabs.
 set expandtab
